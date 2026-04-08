@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Venu%20Gopal%20%E1%B4%B1%E1%B4%B1&fontSize=70&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0078D4&height=200&section=header&text=Venu%20Gopal&fontSize=80&animation=fadeIn" />
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=Initializing+VenuGopal811.exe...;AI+%2F+ML+Architect;Full+Stack+Chaos+Engineer;Spider-Man+Simp;>_Mining+Bugs+for+Fun" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=Initializing+VenuGopal811.exe...;AI+%2F+ML+Architect;Full+Stack+Chaos+Engineer;Spider-Man+Simp;>_Access+Granted" alt="Typing SVG" />
   </a>
 </div>
 

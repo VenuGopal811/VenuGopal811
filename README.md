@@ -20,7 +20,8 @@
 
 ### 📊 System Diagnostics (Activity Metrics)
 <div align="center">
-  <img src="https://metrics.lecoq.io/VenuGopal811?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FCalcutta" alt="GitHub Metrics" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VenuGopal811&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenuGopal811&layout=compact&theme=radical&hide=html,css" />
 </div>
 
 ---
@@ -35,14 +36,14 @@
 ---
 
 ### 🌟 Legendary Loot (Featured Projects)
-* **[Sentient Desk](https://github.com/VenuGopal811)**: A local AI voice assistant for when the code starts talking back. (92% Accuracy via Ollama/Phi-3) [cite_start][cite: 271].
+* **[Sentient Desk](https://github.com/VenuGopal811)**: I built a local AI voice assistant so I have someone to talk to when my code won't compile. (92% Accuracy via Ollama/Phi-3) [cite_start][cite: 271].
 * [cite_start]**[ContentOS](https://github.com/VenuGopal811)**: A full-stack AI platform built for the ultimate content lifecycle management[cite: 277].
 
 ---
 
-### 📅 The Grind
+### 📅 The Consistency Trap
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VenuGopal811&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VenuGopal811&theme=radical" alt="Streak Stats" />
 </div>
 
 ---

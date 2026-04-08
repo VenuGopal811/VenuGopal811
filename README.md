@@ -1,8 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0078D4&height=200&section=header&text=Venu%20Gopal&fontSize=80&animation=fadeIn" />
-  
+  <h1>🕹️ VenuGopal811.exe</h1>
+  <p><i>"I don't find bugs. Bugs find me."</i></p>
+</div>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=Initializing+VenuGopal811.exe...;AI+%2F+ML+Architect;Full+Stack+Chaos+Engineer;Spider-Man+Simp;>_Access+Granted" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=Initializing+VenuGopal811...;AI+%2F+ML+Specialist;Full+Stack+Chaos+Engineer;Spider-Man+Simp;>_System+Online" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,11 +18,10 @@
 
 ---
 
-### 📊 The Quantified Grind
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VenuGopal811&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenuGopal811&layout=compact&theme=radical&hide=html,css" />
-</p>
+### 📊 System Diagnostics (Activity Metrics)
+<div align="center">
+  <img src="https://metrics.lecoq.io/VenuGopal811?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FCalcutta" alt="GitHub Metrics" />
+</div>
 
 ---
 
@@ -33,14 +35,14 @@
 ---
 
 ### 🌟 Legendary Loot (Featured Projects)
-* **[Sentient Desk](https://github.com/VenuGopal811)**: I built a local AI voice assistant so I have someone to talk to when my code won't compile. (92% Accuracy via Ollama/Phi-3).
-* **[ContentOS](https://github.com/VenuGopal811)**: A full-stack AI platform for people who spend more time managing content than creating it.
+* **[Sentient Desk](https://github.com/VenuGopal811)**: A local AI voice assistant for when the code starts talking back. (92% Accuracy via Ollama/Phi-3) [cite_start][cite: 271].
+* [cite_start]**[ContentOS](https://github.com/VenuGopal811)**: A full-stack AI platform built for the ultimate content lifecycle management[cite: 277].
 
 ---
 
-### 📅 The Consistency Trap
+### 📅 The Grind
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VenuGopal811&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VenuGopal811&theme=tokyonight" alt="Streak Stats" />
 </div>
 
 ---

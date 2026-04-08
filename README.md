@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🕹️ VenuGopal811.exe</h1>
-  <p><i>"I don't find bugs. Bugs find me."</i></p>
+  <p><i>"I write code that my future self will eventually swear at."</i></p>
 </div>
 
 <div align="center">
@@ -18,9 +18,9 @@
 
 ---
 
-### 📊 System Diagnostics (Activity Metrics)
+### 📊 System Diagnostics
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VenuGopal811&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VenuGopal811&show_icons=true&theme=radical&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenuGopal811&layout=compact&theme=radical&hide=html,css" />
 </div>
 
@@ -36,15 +36,8 @@
 ---
 
 ### 🌟 Legendary Loot (Featured Projects)
-* **[Sentient Desk](https://github.com/VenuGopal811)**: I built a local AI voice assistant so I have someone to talk to when my code won't compile. (92% Accuracy via Ollama/Phi-3) [cite_start][cite: 271].
-* [cite_start]**[ContentOS](https://github.com/VenuGopal811)**: A full-stack AI platform built for the ultimate content lifecycle management[cite: 277].
-
----
-
-### 📅 The Consistency Trap
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VenuGopal811&theme=radical" alt="Streak Stats" />
-</div>
+* **[Sentient Desk](https://github.com/VenuGopal811)**: A local AI voice assistant for when the code starts talking back. [cite_start]🎙️ [cite: 271]
+* **[ContentOS](https://github.com/VenuGopal811)**: Full-stack AI platform built with a monorepo structure. [cite_start]🚀 [cite: 277]
 
 ---
 
@@ -52,5 +45,4 @@
 <p align="center">
 <a href="https://linkedin.com/in/venu-gopal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:imvenugopal08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://discordapp.com/users/mobxkaiser"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>

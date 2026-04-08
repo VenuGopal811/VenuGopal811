@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🕹️ VenuGopal811.exe</h1>
-  <p><i>"I write code that my future self will eventually swear at."</i></p>
+  <p><i>"I don't find bugs. Bugs find me."</i></p>
 </div>
 
 <div align="center">
@@ -24,8 +24,8 @@
 | **Commit Velocity** | 🟢 High-Octane |
 | **Bug Production** | 🔴 Optimized for Chaos |
 | **Caffeine Level** | ☕ Critical |
-| **Main Quests** | [cite_start]Python, TypeScript, C++, SQL [cite: 256] |
-| **Forbidden Arts** | [cite_start]TensorFlow, PyTorch, Ollama, Phi-3 [cite: 257, 260] |
+| **Main Quests** | Python, TypeScript, C++, SQL |
+| **Forbidden Arts** | TensorFlow, PyTorch, Ollama, Phi-3 |
 
 ---
 
@@ -39,8 +39,8 @@
 ---
 
 ### 🌟 Legendary Loot (Projects)
-* **[Sentient Desk](https://github.com/VenuGopal811)**: A local AI voice assistant I built using **Ollama** and **Phi-3** because I needed someone to talk to when the code broke. [cite_start]🎙️ [cite: 268, 271]
-* **[ContentOS](https://github.com/VenuGopal811)**: A full-stack AI platform built with **TypeScript** and **React** for people who spend more time managing content than creating it. [cite_start]🚀 [cite: 275, 277]
+* **[Sentient Desk](https://github.com/VenuGopal811)**: A local AI voice assistant I built using **Ollama** and **Phi-3** because I needed someone to talk to when the code broke. 🎙️
+* **[ContentOS](https://github.com/VenuGopal811)**: A full-stack AI platform built with **TypeScript** and **React** for people who spend more time managing content than creating it. 🚀
 
 ---
 

@@ -18,26 +18,29 @@
 
 ---
 
-### 📊 System Diagnostics
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VenuGopal811&show_icons=true&theme=radical&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenuGopal811&layout=compact&theme=radical&hide=html,css" />
-</div>
-
----
-
-### 🛡️ Skill Inventory (Mastery Levels)
-| Type | Loadout |
+### 📊 System Diagnostics (Manual Override)
+| Metric | Status |
 | :--- | :--- |
-| **Main Quests** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **Forbidden Arts** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=for-the-badge) |
-| **Infrastructure** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
+| **Commit Velocity** | 🟢 High-Octane |
+| **Bug Production** | 🔴 Optimized for Chaos |
+| **Caffeine Level** | ☕ Critical |
+| **Main Quests** | [cite_start]Python, TypeScript, C++, SQL [cite: 256] |
+| **Forbidden Arts** | [cite_start]TensorFlow, PyTorch, Ollama, Phi-3 [cite: 257, 260] |
 
 ---
 
-### 🌟 Legendary Loot (Featured Projects)
-* **[Sentient Desk](https://github.com/VenuGopal811)**: A local AI voice assistant for when the code starts talking back. [cite_start]🎙️ [cite: 271]
-* **[ContentOS](https://github.com/VenuGopal811)**: Full-stack AI platform built with a monorepo structure. [cite_start]🚀 [cite: 277]
+### 🛡️ Skill Inventory (Loadout)
+| Type | Technologies |
+| :--- | :--- |
+| **Primary** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **AI/ML** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
+
+---
+
+### 🌟 Legendary Loot (Projects)
+* **[Sentient Desk](https://github.com/VenuGopal811)**: A local AI voice assistant I built using **Ollama** and **Phi-3** because I needed someone to talk to when the code broke. [cite_start]🎙️ [cite: 268, 271]
+* **[ContentOS](https://github.com/VenuGopal811)**: A full-stack AI platform built with **TypeScript** and **React** for people who spend more time managing content than creating it. [cite_start]🚀 [cite: 275, 277]
 
 ---
 

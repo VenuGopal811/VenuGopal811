@@ -1,11 +1,8 @@
 <div align="center">
-  <h1>🕹️ VenuGopal811.exe</h1>
-  <p><i>"I write code that my future self will eventually swear at."</i></p>
-</div>
-
-<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Venu%20Gopal%20%E1%B4%B1%E1%B4%B1&fontSize=70&animation=twinkling" />
+  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=System+Online...;AI+%2F+ML+Architect;Full+Stack+Chaos+Engineer;Spider-Man+Simp;>_Mining+Bugs+for+Fun" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=Initializing+VenuGopal811.exe...;AI+%2F+ML+Architect;Full+Stack+Chaos+Engineer;Spider-Man+Simp;>_Mining+Bugs+for+Fun" alt="Typing SVG" />
   </a>
 </div>
 
@@ -13,18 +10,16 @@
 
 ### 🃏 Daily Dose of Pain
 <div align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://dev-humor.vercel.app/api?type=horizontal" alt="Dev Humor" />
-  </a>
+  <img src="https://dev-humor.vercel.app/api?type=horizontal" alt="Dev Humor" />
 </div>
 
 ---
 
 ### 📊 The Quantified Grind
-<div align="center">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VenuGopal811&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenuGopal811&layout=compact&theme=radical&hide=html,css" />
-</div>
+</p>
 
 ---
 
@@ -38,8 +33,8 @@
 ---
 
 ### 🌟 Legendary Loot (Featured Projects)
-* **[Sentient Desk](https://github.com/VenuGopal811)**: I built a local AI voice assistant so I have someone to talk to when my code won't compile. (92% Accuracy via Ollama/Phi-3) [cite_start][cite: 271, 272].
-* [cite_start]**[ContentOS](https://github.com/VenuGopal811)**: A full-stack AI platform for people who spend more time managing content than creating it.[cite: 275, 277].
+* **[Sentient Desk](https://github.com/VenuGopal811)**: I built a local AI voice assistant so I have someone to talk to when my code won't compile. (92% Accuracy via Ollama/Phi-3).
+* **[ContentOS](https://github.com/VenuGopal811)**: A full-stack AI platform for people who spend more time managing content than creating it.
 
 ---
 
@@ -56,9 +51,3 @@
 <a href="mailto:imvenugopal08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://discordapp.com/users/mobxkaiser"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
-
----
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" />
-</div>

@@ -29,27 +29,20 @@
 
 ---
 
-### 🌟 Active Missions (Featured Projects)
-- **[Sentient Desk](https://github.com/VenuGopal811)**: Local AI Voice Assistant (92% Accuracy) 🎙️
-- **[ContentOS](https://github.com/VenuGopal811)**: Full-Stack Content Lifecycle Platform 🚀
+### 🌟 Active Missions (Hero Projects)
+* [cite_start]**[Sentient Desk](https://github.com/VenuGopal811)**: Local AI Voice Assistant (92% Accuracy) 🎙️ [cite: 271]
+* [cite_start]**[ContentOS](https://github.com/VenuGopal811)**: Full-Stack Content Lifecycle Platform (React + Redis + Docker) 🚀 [cite: 275, 277, 279]
 
 ---
 
-### 📅 Contribution Heatmap
+### 📅 Activity Streak
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VenuGopal811&theme=radical" alt="Streak Stats" />
 </div>
 
 ---
 
-### 🎧 Current Soundtrack (Real-time Spotify)
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" />
-</div>
-
----
-
-### 🤝 Guild Invitations (Connect)
+### 🤝 Connect with the Guild
 <p align="center">
 <a href="https://linkedin.com/in/venu-gopal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:imvenugopal08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>

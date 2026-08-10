@@ -1,5 +1,4 @@
-[![Actions Status](https://github.com/VenuGopal811/VenuGopal811/workflows/update-gh-activity/badge.svg)](https://github.com/VenuGopal811/VenuGopal811/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=VenuGopal811.VenuGopal811)
+![](https://visitor-badge.laobi.icu/badge?page_id=VenuGopal811.VenuGopal811)
 
 # 🕹️ VenuGopal811.exe
 
